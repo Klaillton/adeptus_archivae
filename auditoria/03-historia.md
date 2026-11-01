@@ -32,6 +32,24 @@ Recorrentes só na narrativa:
 
 A IA de um mundo de felinídeos, encontrada num estudo ecológico, foi deixada no lugar, protegida de terceiros, com salvaguardas. O Dante recupera essa cena no chat II. Não tem nome no export.
 
+## A reunião dos quatro
+
+Chat I, dezembro de 2024. O Dante pergunta se a criação teria sido uma conversa informal ou uma reunião formal, e pede a cena. Status da prosa: **em cena**. A função da mesa está **travada** em 1 de novembro de 2026: é o momento em que os hábitos separados se tornam uma ordem. O que vem antes, o acervo solto e o depósito de cada frota, está em `02-lore.md`. Onde a cena já faz nascer guerreiros e armadura, prevalece essa forma.
+
+O modelo situa a mesa durante a Grande Cruzada, numa fortaleza orbital de um mundo recém-recuperado, depois da vitória sobre xenos que guardavam relíquias humanas.
+
+- Ferrus abre. Um data-crânio dourado. Se tivessem chegado uma década depois, estaria perdido. Pergunta quantos segredos somem enquanto guerreiam.
+- Guilliman, nos manuscritos: conhecimento perdido é fraqueza.
+- Vulkan: o que ali está não é poder, é compreensão. Registros de reatores que poderiam iluminar mundos. Perder isso condena bilhões à escuridão.
+- Ferrus: não há tempo. Cada um tem a sua cruzada.
+- Lion: não precisam sair dos seus caminhos. A tarefa fica com quem tem talento para ela. Não uma ordem militar. Um círculo oculto, para reunir, proteger e catalogar, agindo nas sombras.
+- Ferrus chama isso de trabalho de escribas. Vulkan responde que a administração imperial distorceria ou perderia o acervo, e que seriam precisos protetores, artífices e estrategistas.
+- Guilliman propõe selecionar os mais aptos entre os seus: Astartes, engenheiros e escribas, sem busca de glória. Lion fala em quem prefere o anonimato.
+- Ferrus oferece as ferramentas, armaduras e armas. Vulkan, o dever de proteger a humanidade. Guilliman, a estrutura. Lion, o momento de se esconder e o de aparecer.
+- Guilliman chama-os de arquivo vivo. Vulkan diz o nome: Adeptus Archivae.
+
+Quando o Dante pede a lore reescrita, o mesmo chat resume de outro modo: últimos estágios da Cruzada, reunião formal convocada por Vulkan, e Guilliman a dizer que não seria um exército para lutar, e sim para registrar, planejar e proteger. Lion fecha com invisibilidade e neutralidade. As duas versões são do modelo. A de novembro de 2026 é a que fixa o nascimento.
+
 ## Contos avulsos do chat I
 
 Dezembro de 2024 e o começo de 2025, antes do ciclo dos enviados. O Dante pede cenas e às vezes manda expandir um título. São episódios soltos. Vários nomes o próprio Dante diz que o modelo troca no meio.
@@ -69,7 +87,7 @@ Chats II, a partir do resumo que o Dante cola para não perder Volgrath XI (Tir�
 - Missão 1, Ecos do Passado. Cofre. Registro de Callen Tavrik e dos Não-Jurados: nem traidores nem leais, apagados pelos dois lados. Menção a Mechanicus que, em alguns casos, facilitou a traição. O Dante pede a reação de cada enviado antes de saberem o que há no cofre, e o registro longo.
 - A análise segue devagar, de propósito: começar pelo início levanta menos suspeita. Castor Velas. Planeta sumido, nas vésperas da Heresia ou antes. O Dante pede marcas de tempo, refeições, descanso, treino. Pede também que o modelo não deixe um comentário dele virar fato sem confirmação.
 - Cofre que os próprios Archivae lacraram contra si. Nível acima do conhecimento proibido comum. Elion pode levar isso ao Conselho, e só aos primarcas se o Conselho não responder à altura da filosofia da ordem.
-- Passagem por um mundo da facção, não Volgrath XI. O Dante corrige: Volgrath era fronteira, da guerra anterior. Simulação contra o Astra Militarum com equipamento igual. A frase de um soldado Archivae, “não teríamos nos colocado nessa situação desde o começo”, é tratada por ele como sal na ferida, porque a Guarda muitas vezes não tem escolha.
+- Passagem por um mundo da facção, não Volgrath XI. O Dante corrige: Volgrath era fronteira, da guerra anterior. O exercício que o modelo escreve, e que ele aceita, é o cânone. Generais da Astra Militarum queriam saber como as tropas se sairiam. O general Voss traz o pedido. No fio, o Dante diz que pode ser a pedido dos enviados e que a Guarda não precisa saber contra quem luta. A cena segue assim: Voss acolhe, Karya diz depois que a ideia foi dele e dela, e os cinco aprovam. Números iguais, armas padrão do Astra Militarum, área aberta junto a estruturas que simulam um assentamento. O lado Archivae elimina virtualmente as unidades da Guarda, sem perdas significativas. A frase “não teríamos nos colocado nessa situação desde o começo” é sal na ferida, porque a Guarda muitas vezes não tem escolha, e ele manda suavizar o tom com os soldados. Detalhe de 1 de novembro de 2026, que precisa quem estava do lado Archivae sem mudar o exercício: não foram soldados escolhidos. Foi a população de uma cidade, tomada ao acaso. O cenário é o desembarque da Guarda para subjugar essa população. Voss sabe que eram civis. Para os outros, isso foi suavizado. O relatório fala em números e equipamento iguais, e o resto fica como diferença de treino, porque o Império não podia admitir que tinha sido superado por civis Archivae, que não são uma força militar especializada. Essa é a linha que o Dante já dita para o relatório de Voss.
 - Rumores, relatórios, cerimônia. Ele aceita uma cerimônia que reafirma aliança com o Imperador, não com o Imperium. Demonstração privada da fé para a Eclesiarquia e da técnica para o Mechanicus.
 - Filosofia da fé com Elion: a diferença entre o como e o porquê. Ele encerra o debate e manda seguir para o desembarque.
 - Visita a fábrica e ritos. Os enviados perguntam como se governa um mundo Archivae.
@@ -121,7 +139,7 @@ A casa, os Ogryns e a pesca no rio aparecem neste bloco como vida doméstica de 
 Chat VII. Ainda história. É o Império a reagir ao que os enviados viram.
 
 - O retorno dos enviados vaza em rumores. Pontos de vista: povo, Astartes primos, capítulos que alinham ou ficam neutros, gente de dentro do Império que já prefere os Archivae à estrutura imperial.
-- Os mundos conhecidos podem ser infiltrados. Os Archivae sabem. O segredo grande não está nessa população.
+- Os mundos conhecidos podem ser infiltrados. Os Archivae sabem. O segredo grande não está nessa população. Correção de 1 de novembro de 2026: esses mundos são os 8 de exposição controlada. Toda a interação que o Imperium conhece, neste ciclo e nos anteriores, aconteceu neles. Os 42 ocultos são ainda mais avançados e não entram nesse contato. Os patronos, que recebem o relatório, não contam como o Imperium.
 - Os Archivae continuam a ajudar a população mesmo com o Império a mover-se contra eles. Contêm-se enquanto crescem em influência.
 - Ameaça nova, ainda sussurro. Administratum tenta cruzar planetas e não fecha o quadro.
 - Quando a ameaça passa do que o Império resolve sozinho, o apoio fica direto. Muitos senhores imperiais já estão comprometidos.
@@ -146,7 +164,7 @@ Não são história da linha. O Dante os pede como cenário.
 
 **A entidade e os três desejos** (`desejos-e-distorsões-de-gênio`, março de 2026). A primeira metade é desejo pessoal, fora de escopo. Depois o Dante coloca um Adeptus Archivae diante de uma entidade presa a pacto, no estilo de um jinn. A entidade é reescrita como contenção, com diretivas. Há um relatório a uma reunião de Grey Knights, Custodes e um Ordo. What-if. Não entra no compêndio.
 
-**Halcyon Reach** (branch de 18 de maio de 2026, depois da oficina das naves). Tiránidas atacam um mundo T'au. Relatório confidencial a Guilliman. Lion observa e reconhece um método sem ver o autor. Os Archivae desescalam sem negociar com a frota-colmeia: destroem o bastante para obrigar a frota a mudar, e administram a sobrevivência do planeta. Guilliman e Lion acabam por ver o reflexo dos quatro patronos. O Dante proíbe “jogar xadrez” com os primarcas: seria desrespeito, e a operação ainda não acabou. O Império chega como o Império chega. Halcyon ainda não colapsa. Há uma margem de intervenção mínima e tropas que Velkhan-Kyrrus pode liberar. O fio que Guilliman e Lion puxam é uma ordem que eles criaram como protótipo e da qual o Império se esqueceu durante dez mil anos. A Ratio não entra em uso: ainda não há crise que a justifique. Em cena, e de propósito alinhado ao item em aberto das naves.
+**Halcyon Reach** (branch de 18 de maio de 2026, depois da oficina das naves). Tiránidas atacam um mundo T'au. Relatório confidencial a Guilliman. Lion observa e reconhece um método sem ver o autor. Os Archivae desescalam sem negociar com a frota-colmeia: destroem o bastante para obrigar a frota a mudar, e administram a sobrevivência do planeta. Guilliman e Lion acabam por ver o reflexo dos quatro patronos. O Dante proíbe “jogar xadrez” com os primarcas: seria desrespeito, e a operação ainda não acabou. O Império chega como o Império chega. Halcyon ainda não colapsa. Há uma margem de intervenção mínima e tropas que Velkhan-Kyrrus pode liberar. O fio que Guilliman e Lion puxam é uma ordem que eles criaram como protótipo e da qual o Império se esqueceu durante dez mil anos. A Ratio não entra em uso: ainda não há crise que a justifique, e se uma Ratio fosse ativada não haveria registro. Em cena. A reescrita naval, travada depois, não muda este silêncio.
 
 **Black Templars e Minotaurs** (1 de abril de 2025). A contenda de Optera é pergunta de Warhammer. O parágrafo seguinte é hipotético: contra os Archivae seria um gato atrás de ratos num labirinto que o gato não conhece. Não é campanha.
 
@@ -154,7 +172,7 @@ Não são história da linha. O Dante os pede como cenário.
 
 - 25 de janeiro de 2025: geração de imagem e o organograma depois substituído.
 - 27 de fevereiro de 2025: a ficha é estrutura. As imagens pedidas não são eventos.
-- 29 de abril de 2025: linha do tempo, perfil da população dos planetas, organograma e estimativa de exército. O perfil está em `01-estrutura.md`. O organograma e a escala de mundos foram substituídos. A estimativa de exército ficou como plano. Não há cenas.
+- 29 de abril de 2025: linha do tempo, perfil da população dos planetas, organograma e estimativa de exército. O perfil está em `01-estrutura.md`. O organograma e a quantidade de 90 a 120 mundos foram substituídos. A faixa de 20 a 30 bilhões por mundo, que ele propôs nessa conversa, voltou a valer em 1 de novembro de 2026. A estimativa de exército ficou como plano. Não há cenas.
 - 17 de maio de 2026: refino da Lex, da Ratio e da árvore de frota, até o Dante limitar o que já existe. Proposta. O branch do dia 18 repete a oficina e só então abre Halcyon Reach.
 - 18 de outubro de 2026: comparação de motores e a bolha de realidade. Discussão de regra, sem arco.
 
