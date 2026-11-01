@@ -45,7 +45,7 @@ A prosa dos contos não foi transcrita. Os arcos saem dos turnos em que o Dante 
 | 2025-02-27 | `armadura-adeptus-archivae` | Ficha de armadura e naves. Vira estrutura. |
 | 2025-03-05 | `adeptus-archivae-v` | História. Cela, Carcereiro, purificação. O próprio Dante separa Rahn de o Senhor da Poeira. |
 | 2025-04-01 | `black-templars-vs-minotaurs` | Consulta de Warhammer e um hipotético curto. |
-| 2025-04-29 | `linha-do-tempo` | Oficina de escala, pupilos e organograma. Quase tudo foi substituído pelo compêndio, com exceções anotadas. |
+| 2025-04-29 | `linha-do-tempo` | Perfil da população dos planetas, mais oficina de escala e organograma. O perfil ficou. A escala e o organograma foram substituídos pelo compêndio. |
 | 2025-06-29 | `e-personalidade` | Fora de escopo. Não entra no cânone. |
 | 2025-07-01 | `adeptus-archivae-vi` | História. Fim das missões dos enviados. A nave nova é declarada sigilosa e ainda não usada. |
 | 2025-07-15 | `adeptus-archivae-vii` | História. Política com o Império depois do retorno dos enviados. |

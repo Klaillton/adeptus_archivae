@@ -58,9 +58,7 @@ Na história, a fé é estudada como fenômeno: quando o imaterial passa a afeta
 
 ## Gente dos mundos
 
-Travado no compêndio: população mais saudável, mais resistente e intelectualmente avançada do que o padrão imperial; vida longa; estatura e traços acima; educação universal; mérito.
-
-Adotado em abril de 2025 e não contradito pelo compêndio: o aprimoramento não é o processo dos Custodes nem o dos Astartes. É geração após geração de alimentação, estudo, condicionamento e medicina da Era Dourada, com eugenia leve. A humanidade permanece. O modelo detalhou QI, íris e túnicas. Esse detalhe visual fino não entrou no compêndio. Status: proposta, exceto os números que o compêndio repetiu.
+A descrição física, mental e cultural de quem vive nos planetas está em `01-estrutura.md`, na secção “Descrição da população”. O método é o que o Dante definiu em abril de 2025 e o compêndio travou em outubro: gerações de alimentação, estudo, condicionamento e medicina da Era Dourada, com controle genético, sem o procedimento dos Custodes nem o dos Astartes. Eugenia leve, pela escolha dos embriões mais saudáveis, faz parte do quadro de abril que ele não corrigiu.
 
 A casa de Elion, travada como nota de figura, mostra o outro lado da mesma doutrina: acolhidos de campos de batalha e de lugares que o Imperium abandonou, inclusive não-humanos sob tutela. Ver história.
 

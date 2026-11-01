@@ -154,7 +154,7 @@ Não são história da linha. O Dante os pede como cenário.
 
 - 25 de janeiro de 2025: geração de imagem e o organograma depois substituído.
 - 27 de fevereiro de 2025: a ficha é estrutura. As imagens pedidas não são eventos.
-- 29 de abril de 2025: linha do tempo, pupilos, organograma, estimativa de exército. Quase tudo foi substituído ou travado como plano. Não há cenas.
+- 29 de abril de 2025: linha do tempo, perfil da população dos planetas, organograma e estimativa de exército. O perfil está em `01-estrutura.md`. O organograma e a escala de mundos foram substituídos. A estimativa de exército ficou como plano. Não há cenas.
 - 17 de maio de 2026: refino da Lex, da Ratio e da árvore de frota, até o Dante limitar o que já existe. Proposta. O branch do dia 18 repete a oficina e só então abre Halcyon Reach.
 - 18 de outubro de 2026: comparação de motores e a bolha de realidade. Discussão de regra, sem arco.
 

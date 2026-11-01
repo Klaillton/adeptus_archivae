@@ -46,12 +46,48 @@ Substituídos como carta oficial. Podem ainda aparecer dentro de um conto antigo
 | Archiv Primaris entre os ocultos, com a Lex descrita como escondida lá | Travado como lugar; a nave, ver seção de naves | Compêndio |
 | População total estimada 240–320 bilhões, aprimorada | Travado | Relatório do compêndio |
 | “Dezenas de bilhões” na seção II do mesmo arquivo | Travado, mais vago | Compêndio, II. O relatório é o número que o Dante mandou corrigir e manter |
-| Longevidade média 300 anos. Mulheres ~1,90 m, homens ~2,10 m. Pele de cinza-escuro a branco-claro. Olhos e cabelos nas cores dos primarcas | Travado | Compêndio, II e relatório |
-| Educação universal e meritocrática. Conhecimento não restrito sob supervisão ética | Travado | Compêndio, II |
 | 20–30 bilhões por mundo do tamanho da Terra, 90–120 mundos, 2,5–3,2 trilhões | Substituído | Oficina de 29 de abril de 2025. O Dante propôs o intervalo por mundo. O relatório posterior fixa outro total |
 | Tipos de mundo daquela oficina (pupilo, arquivo, oficina, templário, observatório) | Proposta | O modelo ofereceu. O Dante não levou esses tipos para o compêndio |
 
 A casa de Elion não é um mundo. É cena, e o compêndio a fixa como lugar da figura: vila de cerca de mil habitantes, campos, casa grande e simples. Detalhe em `03-historia.md`.
+
+### Descrição da população
+
+Quem nasce nos planetas Archivae não passa pelo processo dos Custodes nem pelo dos Astartes. Em 29 de abril de 2025 o Dante fixou o método: o melhor em alimentação, estudo e condicionamento físico, com o acervo da Era Dourada, ao longo de cerca de dez mil anos. O compêndio, posterior, acrescenta manipulação genética para força, resistência e agilidade, e controle genético voltado à qualidade dos primarcas. A frase de abril continua de pé: não é o procedimento dos Custodes. A humanidade permanece. A maior parte desse povo não é militarizada. É treinada, saudável e culta. A força de elite é selecionada à parte, e os bilhões de guarda do relatório são projeção, não o cotidiano.
+
+O que está travado no compêndio, seção II e relatório:
+
+- 240–320 bilhões no conjunto dos 50 planetas. A seção II ainda diz “dezenas de bilhões”, número mais vago do mesmo arquivo.
+- Longevidade média de 300 anos. Saúde acima do padrão imperial. Mais resistentes e intelectualmente mais avançados.
+- Mulheres em torno de 1,90 m e homens em torno de 2,10 m. O relatório resume a estatura como o intervalo 1,90–2,10 m.
+- Pele do cinza-escuro ao branco-claro. Olhos e cabelos nas cores dos quatro primarcas.
+- Beleza descrita no próprio compêndio como a de semideuses.
+- Educação universal e meritocrática. O conhecimento não restrito circula sob supervisão ética.
+
+O perfil abaixo é o que ele pediu na mesma conversa de abril (“pode escrever o perfil físico/cultural desses pupilos”) e do qual seguiu para a imagem e o organograma. Onde o compêndio de outubro fixou medida ou cor, vale o compêndio.
+
+Físico, adotado:
+
+- Constituição forte e esguia, postura ereta, movimento controlado. Massa densa sem perder agilidade. Reflexos, pulmão e coração acima do humano comum.
+- Resistência a doenças, toxinas e radiação. Regeneração celular alta, aquém de um Astartes.
+- Olhos preparados para leitura longa e pouca luz, dentro da paleta primarcal travada acima.
+- Voz treinada: dicção clara, tom calmo, grave e articulado.
+
+Mental, adotado:
+
+- Memória de trabalho alta, leitura veloz, pensamento lógico e analítico. O primeiro quadro dessa conversa estima QI médio acima de 180.
+- Desde a infância: história do Império e das guerras da humanidade, estratégia, filosofia, engenharia, línguas esquecidas, doutrina Archivae e a dos quatro patronos.
+- Controle emocional treinado cedo, com meditação, doutrina mental e prova sob pressão. Memória quase fotográfica. Implantes mnêmicos aparecem como possibilidade, não como fato de que todos os tenham.
+
+Cultural, adotado:
+
+- Gótico culto e línguas antigas, inclusive restos da Era Dourada.
+- Roupa simples e elegante. Túnica reforçada com fibra tecnológica, tons neutros, insígnia de função em ouro, prata ou bronze.
+- Conduta calma, reservada, observadora. Não agem sem registrar ou testemunhar. Em público não se exaltam: recorrem ao arquivo e à lógica.
+- Etiqueta refinada, senso de missão e de hierarquia.
+- O Caos é lido como corrupção da história, não só como heresia. O ódio fica sob controle.
+
+A crença está em `02-lore.md`, na Verdade Imperial. O nome “Filhos da Lumen Historiae” foi sugestão do modelo nessa sessão e não entrou no compêndio.
 
 ## Força que existe e força que é plano
 
