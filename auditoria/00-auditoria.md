@@ -63,6 +63,7 @@ O arquivo-base é o **Compêndio Geral** de 28 de outubro de 2025, na forma do `
 - Os números de Guarda, Astartes e naves de guerra são projeção. Não estão implementados. Esperam autorização dos primarcas ou de Guilliman.
 - O relatório omite comparação com os Custodes.
 - Notas XII e XIII: manter o tom grimdark e a coesão com a lore atual de Warhammer.
+- Correção de 1 de novembro de 2026: a população dos planetas recebe características das sementes genéticas dos quatro primarcas por edição ao longo do tempo, com seleção das melhores e mais estáveis de cada uma. Não é a cirurgia dos Astartes. O cuidado com mutações e anomalias foi mantido.
 
 `01-estrutura.md`, `02-lore.md` e `03-historia.md` aplicam essa precedência.
 

@@ -53,7 +53,13 @@ A casa de Elion não é um mundo. É cena, e o compêndio a fixa como lugar da f
 
 ### Descrição da população
 
-Quem nasce nos planetas Archivae não passa pelo processo dos Custodes nem pelo dos Astartes. Em 29 de abril de 2025 o Dante fixou o método: o melhor em alimentação, estudo e condicionamento físico, com o acervo da Era Dourada, ao longo de cerca de dez mil anos. O compêndio, posterior, acrescenta manipulação genética para força, resistência e agilidade, e controle genético voltado à qualidade dos primarcas. A frase de abril continua de pé: não é o procedimento dos Custodes. A humanidade permanece. A maior parte desse povo não é militarizada. É treinada, saudável e culta. A força de elite é selecionada à parte, e os bilhões de guarda do relatório são projeção, não o cotidiano.
+A população dos planetas carrega características das sementes genéticas dos quatro primarcas patronos: Guilliman, Vulkan, Ferrus Manus e Lion El'Jonson. Isso está travado por correção do Dante em 1 de novembro de 2026. O compêndio já falava em controle genético, ao longo de cerca de dez mil anos, para adquirir qualidade dos primarcas. A correção diz como isso foi feito.
+
+Não é o processo dos Astartes. Não há cirurgia que force a mudança num corpo já formado. A edição genética foi inserida ao longo do tempo. De cada semente foram escolhidas as melhores características e as mais estáveis. Essas características se perpetuam na população. O cuidado com mutações e anomalias foi mantido o tempo todo. Também não é o procedimento dos Custodes. Quem nasce assim continua humano.
+
+Em abril de 2025 o Dante acrescentou o que acompanha essa linhagem: a melhor alimentação, o melhor estudo e o melhor condicionamento físico, com o acervo da Era Dourada. O compêndio trava, ainda, manipulação genética para força, resistência e agilidade. A maior parte desse povo não é militarizada. É treinada, saudável e culta. A força de elite é selecionada à parte, e os bilhões de guarda do relatório são projeção, não o cotidiano.
+
+O gene-seed híbrido dos quatro patronos, citado no relatório para fabricar Astartes em massa, é outro uso da mesma origem. Aquilo continua plano não autorizado. A população civil já recebe os traços estáveis. Virar Astartes continua a ser um processo à parte.
 
 O que está travado no compêndio, seção II e relatório:
 

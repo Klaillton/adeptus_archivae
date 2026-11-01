@@ -58,7 +58,7 @@ Na história, a fé é estudada como fenômeno: quando o imaterial passa a afeta
 
 ## Gente dos mundos
 
-A descrição física, mental e cultural de quem vive nos planetas está em `01-estrutura.md`, na secção “Descrição da população”. O método é o que o Dante definiu em abril de 2025 e o compêndio travou em outubro: gerações de alimentação, estudo, condicionamento e medicina da Era Dourada, com controle genético, sem o procedimento dos Custodes nem o dos Astartes. Eugenia leve, pela escolha dos embriões mais saudáveis, faz parte do quadro de abril que ele não corrigiu.
+A descrição física, mental e cultural de quem vive nos planetas está em `01-estrutura.md`, na secção “Descrição da população”. O mecanismo está travado pela correção de 1 de novembro de 2026: características das sementes genéticas dos quatro primarcas, editadas ao longo do tempo, com seleção das melhores e mais estáveis de cada uma, perpetuadas na população, e com cuidado permanente contra mutações e anomalias. Não é a cirurgia dos Astartes nem o procedimento dos Custodes. Alimentação, estudo e condicionamento da Era Dourada acompanham essa linhagem. A frase de “eugenia leve” do modelo, em abril de 2025, fica substituída por essa seleção.
 
 A casa de Elion, travada como nota de figura, mostra o outro lado da mesma doutrina: acolhidos de campos de batalha e de lugares que o Imperium abandonou, inclusive não-humanos sob tutela. Ver história.
 
